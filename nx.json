@@ -22,15 +22,7 @@
       }
     }
   },
-  "projects": {
-    "nx-prisma": {
-      "tags": []
-    },
-    "nx-prisma-e2e": {
-      "tags": [],
-      "implicitDependencies": ["nx-prisma"]
-    }
-  },
+  "projects": {},
   "workspaceLayout": {
     "appsDir": "e2e",
     "libsDir": "packages"
